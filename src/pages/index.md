@@ -24,11 +24,6 @@ sections:
     subtitle: An optional subtitle of the section
     title: Latest from the Blog
     type: postsblock
-  - component: ContactBlock
-    section_id: contact
-    subtitle: An optional subtitle of the section
-    title: Contact Us
-    type: contactblock
 menus:
   main:
     title: Home
